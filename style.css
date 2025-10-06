@@ -42,17 +42,6 @@ body {
   color: #d63384;
 }
 
-/* Cake */
-.cake-container {
-  margin: 20px 0;
-}
-
-.cake {
-  width: 200px;
-  height: auto;
-  animation: spin 5s linear infinite;
-}
-
 @keyframes spin {
   0% { transform: rotate(0deg);}
   100% { transform: rotate(360deg);}
@@ -111,3 +100,4 @@ body {
   color: white;
   cursor: pointer;
 }
+
